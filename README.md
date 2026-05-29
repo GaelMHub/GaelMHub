@@ -1,6 +1,6 @@
-I'm Gael, a Computer Engineering student based in Mexico.
+I'm Gael, a 3rd smester Computer Engineering student based in Mexico.
 
-I build projects for university and for fun — whatever I find interesting, I try to make it work.
+I build personal projects and for university — whatever I find interesting, I try to make it work.
 
 My current stack is C and Python. I'm also learning Godot for 2D and 3D game development.
 
