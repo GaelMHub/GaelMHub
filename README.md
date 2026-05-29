@@ -1,3 +1,5 @@
+Hey there! 👋
+
 I'm Gael, a 3rd smester Computer Engineering student based in Mexico.
 
 I build personal projects and for university — whatever I find interesting, I try to make it work.
